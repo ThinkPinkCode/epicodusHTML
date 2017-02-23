@@ -1,13 +1,13 @@
-# _{My First Web Page}_
+# _My First Web Page_
 
-#### _{A practice site for HTML}, {2/23/2017}_
+#### _A practice site for HTML, 2/23/2017_
 
-#### By _**{Melanie Myers}**_
+#### By _**Melanie Myers**_
 
 ## Description
 
-_{This application is a method for practicing HTML elements, so we can build on them further when I learn CSS and JavaScript.}_
+_This application is a method for practicing HTML elements, so we can build on them further when I learn CSS and JavaScript._
 
 ## Setup/Installation Requirements
 
-* _No setup required
+* No setup required
