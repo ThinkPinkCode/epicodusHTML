@@ -16,3 +16,15 @@ p, h1, h2, h3, ul, ol, li{
 ul, ol{
   line-height: 30px;
 }
+
+.people {
+  background-color: yellow;
+}
+
+.iceCream {
+  background-color: cyan;
+}
+
+.delicious {
+  color: teal;
+}
